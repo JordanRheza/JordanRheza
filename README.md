@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 Mi nombre es Jordan Rheza
+#### Soy desarrollador de software
+Soy apasionado por escribir código limpio y eficiente, tengo un enfoque meticuloso en la resolución de problemas. Además, disfruto colaborando con equipos multidisciplinarios y aprendiendo nuevas tecnologías para mantenerme actualizado en un campo en constante evolución.
+
+Habilidades: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /> </div>
+
+- 🌱 Estoy aprendiendo git y github 
+
+Redes sociales: 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jordan-rheza-aragundi-2ba1bb235/)  
+
 
 <!--
 **JordanRheza/JordanRheza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
